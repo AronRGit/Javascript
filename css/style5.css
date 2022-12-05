@@ -1,0 +1,24 @@
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+.descripcion{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 75%;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    
+    background-color: #8ff6fc;
+    width: 25%;
+    border: 0.1rem solid black;
+}
+.imagen{
+    width: 5rem;
+}
+.cimg{ 
+    text-align: center;
+}
